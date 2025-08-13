@@ -22,7 +22,7 @@ repository               : "wczmiracle.github.io/springwang.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1500_1500.png"
+  avatar           : "720_720.png"
   name             : "Wang Chunzheng (王春铮)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
