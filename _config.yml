@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wang Chunzheng (王春铮) / Spring Wang"
+title                    : "Wang Chunzheng / Spring Wang"
 title_separator          : "-"
 name                     : &name "Wang Chunzheng"
 description              : &description "Curious Zealous, Wide-ranging"
@@ -22,8 +22,8 @@ repository               : "wczmiracle.github.io/springwang.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Wang Chunzheng"
+  avatar           : "1500_1500.png"
+  name             : "Wang Chunzheng (王春铮)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
